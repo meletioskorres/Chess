@@ -34,6 +34,14 @@ public class Piece {
         this.board = board;
     }
 
+    public boolean isValidMovement(int col, int row) {
+        return true;
+    }
+
+    public boolean moveCollides(int col, int row) {
+        return false;
+    }
+
     public void paint(Graphics2D graphics2D) {
         graphics2D.drawImage(sprite, xPos, yPos, null);
     }
