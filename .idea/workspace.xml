@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18134b20-efab-457c-abab-521e061222a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Main/Input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main/Move.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pieces/Bishop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pieces/King.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pieces/Pawn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pieces/Queen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pieces/Rook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pieces/Bishop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pieces/Bishop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pieces/Knight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pieces/Knight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Pieces/Piece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pieces/Piece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pieces/Queen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pieces/Queen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pieces/Rook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pieces/Rook.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +84,8 @@
       <updated>1701453823451</updated>
       <workItem from="1701453824813" duration="8449000" />
       <workItem from="1701532262588" duration="657000" />
-      <workItem from="1701598708323" duration="3631000" />
+      <workItem from="1701598708323" duration="6722000" />
+      <workItem from="1701670565032" duration="1579000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1701459603198</created>
